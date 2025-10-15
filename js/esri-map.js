@@ -24,7 +24,7 @@ WildRydes.map = WildRydes.map || {};
 
         var view = new MapView({
             // Gibraltar
-            center: [36.1408, 5.3536],
+            center: [ 5.3536, 36.1408],
             //center: [-122.31, 47.60],
             container: 'map',
             map: map,
