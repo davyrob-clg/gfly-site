@@ -57,9 +57,9 @@ const fleet = [
 
 { Name: 'Taxi1', Color: 'White', Seats: '4' },
 
-{ Name: 'Taxi2', Color: 'Blue', Gender: '2' },
+{ Name: 'Taxi2', Color: 'Blue', Seats: '2' },
 
-{ Name: 'Taxi3', Color: 'Yellow', Gender: '2' },
+{ Name: 'Taxi3', Color: 'Yellow', Seats: '2' },
 
 ];
 
