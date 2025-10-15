@@ -23,7 +23,9 @@ WildRydes.map = WildRydes.map || {};
         var map = new Map({ basemap: 'gray-vector' });
 
         var view = new MapView({
-            center: [-122.31, 47.60],
+            // Gibraltar
+            center: [36.1408, 5.3536],
+            //center: [-122.31, 47.60],
             container: 'map',
             map: map,
             zoom: 12
@@ -39,7 +41,7 @@ WildRydes.map = WildRydes.map || {};
         });
 
         var unicornSymbol = new PictureMarkerSymbol({
-            url: '/images/unicorn-icon.png',
+            url: '/images/aircraft-taxi.png',
             width: '25px',
             height: '25px'
         });
